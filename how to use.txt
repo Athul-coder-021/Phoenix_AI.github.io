@@ -1,0 +1,33 @@
+hii there i'm shailendra
+
+so for using this program is pretty easy 
+requiremnets are:-
+A computer and python3 should have installed in it...
+and some libraries like:-
+1.requests
+-it is library that is used for constructing and sending HTTP requests
+-you can install it by typing this command in your CMD
+
+pip install requests
+
+2.beautifulsoup4
+-this python library is used for extracting data from HTML and XML files
+-for get it... type this in your CMD
+
+
+pip install beautifulsoup4
+
+
+3.lxml
+-it is parser... this is exterior tool for beautifulsoup for webscraping
+-for get it... type this...
+
+
+pip install lxml
+
+that it...
+now you can the script...
+
+follow me on
+fb-www.facebook.com/shailendrakr007
+instagram-www.instagram.com/shailendra_kr_007
